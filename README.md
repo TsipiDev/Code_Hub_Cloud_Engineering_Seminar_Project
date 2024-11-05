@@ -27,13 +27,13 @@ Using the [Microsoft Azure](https://portal.azure.com/) services and great teamwo
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/BillisC"><img src="https://avatars.githubusercontent.com/u/26091373" width="100px;"/><br/><sub><b>Βασίλειος Χριστόφας</b></sub></a><br/><br>
-      <a href="https://www.linkedin.com/in/vasileios-christofas/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>  
+      <a href="https://www.linkedin.com/in/vasileios-christofas-280a23267/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>  
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/BillyTheTroller"><img src="https://avatars.githubusercontent.com/u/153131248?" width="100px;"/><br/><sub><b>Βασίλειος Χαρμανίδης</b></sub></a><br/><br>
-      <a href="https://www.linkedin.com/in/vasilis-charmanidis/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>      
+      <a href="https://www.linkedin.com/in/vasilis-charmanidis-621b04273/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>      
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TsipiDev"><img src="https://avatars.githubusercontent.com/u/182362978" width="100px;"/><br/><sub><b>Δημήτρης Βατούσης</b></sub></a><br/><br>
       <a href="https://www.linkedin.com/in/dimitris-vatousis/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ankamim"><img src="https://avatars.githubusercontent.com/u/185844696?" width="100px;" /><br/><sub><b>Άννα <br> Καμηλάκη</b></sub></a><br/><br>
-      <a href="https://www.linkedin.com/in/anna-kamilaki/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>
+      <a href="https://www.linkedin.com/in/anna-kamilaki-19689a332/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/afroksilanthi"><img src="https://avatars.githubusercontent.com/u/103579857" width="100px;"/><br/><sub><b>Βασιλική <br> Κόνου</b></sub></a><br><br/>
       <a href="https://www.linkedin.com/in/vasiliki-konou/"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px;"/></a></td>
     </tr>  
